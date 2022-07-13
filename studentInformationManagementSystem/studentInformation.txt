@@ -1,0 +1,5 @@
+{'id': '1028', 'name': '二八酱', 'english': 120, 'python': 100, 'java': 100}
+{'id': 'XLz', 'name': '小靓仔', 'english': 105, 'python': 90, 'java': 90}
+{'id': 'ass', 'name': '韩松', 'english': 60, 'python': 80, 'java': 80}
+{'id': 'XAw', 'name': '小阿伟', 'english': 150, 'python': 100, 'java': 100}
+{'id': 'DMG', 'name': 'Max马俊', 'english': 70, 'python': 99, 'java': 90}
