@@ -1,2 +1,2 @@
 # PythonLearning
-1. studentInformationManagementSystem comes from bilibili video(bv1wd4y1o7as) and I have improved its unreasonable places.
+1. studentInformationManagementSystem comes from bilibili video(BV1wD4y1o7AS) and I have improved its unreasonable places.
